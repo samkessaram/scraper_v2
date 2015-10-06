@@ -1,0 +1,23 @@
+{
+  "name": "scraper_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samkessaram/scraper_v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samkessaram/scraper_v2/issues"
+  },
+  "homepage": "https://github.com/samkessaram/scraper_v2",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.64.0"
+  }
+}
